@@ -218,4 +218,4 @@ async def moderator(ctx):
     await asyncio.sleep(1)
     await ctx.send(embed=embed)
 
-client.run("ODc2ODg5MTE0NTc2ODM0NTgw.YRqooA.KP3EB5H4H0tg_7CnnTJvu0YSasc")
+client.run("token")
